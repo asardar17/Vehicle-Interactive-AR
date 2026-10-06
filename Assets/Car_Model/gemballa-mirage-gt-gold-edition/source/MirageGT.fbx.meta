@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 095815caa461741219ff9144c2faaf48
+ModelImporter:
+  serializedVersion: 24300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AC_TIRESIDE
+    second: {fileID: 2100000, guid: cbd135641c059472381bca49adc7989a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AC_TREAD
+    second: {fileID: 2100000, guid: 4cbc22440f95e49caa28afdeac284930, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carbon fiber
+    second: {fileID: 2100000, guid: 80f5bc6ab2a6245028872bac513a62f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GLOWB
+    second: {fileID: 2100000, guid: 4cd1b1d218d394ecdb2250af5c3faa26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: b4d464d3d45144fe2b69062b8f071641, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Mesh Grill
+    second: {fileID: 2100000, guid: 31ebd1119804b47e298579d1223c6881, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Mesh Grill.001
+    second: {fileID: 2100000, guid: 2d6daa281fd6148f4bd032f60431ac1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soft Suede Fabric
+    second: {fileID: 2100000, guid: a6c96678e8af145648897718dfaa3673, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 4fc9b5ab3cf4c4917832437ed072444e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: car_chassis
+    second: {fileID: 2100000, guid: a9dfb2836b5744f839b7af8dfe626546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: exhasut
+    second: {fileID: 2100000, guid: c8ae34f2c61304dc2976beeb2043cfd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gemballa logo
+    second: {fileID: 2100000, guid: c917525335e6c436783a9aa4ded70479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gemballa logo.001
+    second: {fileID: 2100000, guid: cf4a54038cc974f5cb1cbf686125a9a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gold
+    second: {fileID: 2100000, guid: 9eca688240d6040018b498e805f3a3ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_10
+    second: {fileID: 2100000, guid: 89626accf6f1a4554ab6f39a3fb23d82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_12
+    second: {fileID: 2100000, guid: 58d4cebe912d343aaa7faac68db3ed4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_24
+    second: {fileID: 2100000, guid: 67889a2a3b3a3486aa7d5ffcf52fd468, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_25
+    second: {fileID: 2100000, guid: 21bb8787da3894dd78f4d31873f83465, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirage
+    second: {fileID: 2100000, guid: f90efba3a7acf42b98057cc031995dec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_badge_emissive
+    second: {fileID: 2100000, guid: 4eb58787832f646938eec4c288c32b53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_black
+    second: {fileID: 2100000, guid: 75c4e34aa5df047aa9377636cc7becf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_black2
+    second: {fileID: 2100000, guid: 78cc7a249905e480ca6c76f09309a164, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_carbon
+    second: {fileID: 2100000, guid: d30884599df384279853f24d6e027ee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_carpet
+    second: {fileID: 2100000, guid: b88fa095e7d2c4f1aa2b1395dacca444, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_chrome
+    second: {fileID: 2100000, guid: 5278cff9a772d43ab9e0cd98b70930b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_cockpit_s
+    second: {fileID: 2100000, guid: 232202b921b92480fad3ef652ec4acfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_disc_blur
+    second: {fileID: 2100000, guid: 8ca7538b8379843c7a3bbc9a38ea6f2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_gauge_bkgd
+    second: {fileID: 2100000, guid: 5ab865f4d36cd4658ad90604e9658eb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_glass_black
+    second: {fileID: 2100000, guid: 52323223eb4af4c1bbf2bb6fb05651e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_interior_badge
+    second: {fileID: 2100000, guid: 25aee1c781f78424fa14ca5d1721bb69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_interior_cluster
+    second: {fileID: 2100000, guid: 475d22eae023742da9d0aa910954cece, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_lcd
+    second: {fileID: 2100000, guid: d74728f988757434f8eb20317df1e2f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_lcovers
+    second: {fileID: 2100000, guid: 75469fb2d44e84aa18147c2c46407f90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_leather_int
+    second: {fileID: 2100000, guid: 8b071a3e16c4640ec98b689e0f1e03ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_leather_stitching
+    second: {fileID: 2100000, guid: f4cc28df4c9c544fea066409275d5605, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_lights
+    second: {fileID: 2100000, guid: 274b88212c8674acf96c0fd849922a7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_plastic_s
+    second: {fileID: 2100000, guid: 6a0c1d322e79545bd9c738aba09f965f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_rim
+    second: {fileID: 2100000, guid: 6888088e3e9654c0c8dda07ec1580e12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_screen
+    second: {fileID: 2100000, guid: e3552331450f04655a104f1d92b8835a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_seatbelt
+    second: {fileID: 2100000, guid: b767c2813283a497297a9d6ed17dbe4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_solid_s
+    second: {fileID: 2100000, guid: d377fdabe93b14649afdd74c4ae2dd80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_solid_s.001
+    second: {fileID: 2100000, guid: cdc403fe0c5924ae19c0bd3801ae74f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_windows
+    second: {fileID: 2100000, guid: 0d33c012dc860451b8fd36f6626890c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miragegt_wood
+    second: {fileID: 2100000, guid: bff19e3821e544b7790136e0b0488422, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror
+    second: {fileID: 2100000, guid: cc2e34ed3d75b448a8d86841a9ae2cd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear lights glass
+    second: {fileID: 2100000, guid: 1d23ec3a1b79141f0bfd2f72193b5e7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rearlights
+    second: {fileID: 2100000, guid: ed80c57a306e24b0c87247a18bdcc642, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red
+    second: {fileID: 2100000, guid: 3ee106b0525bc4aa4806e877cf482d00, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+    searchTexturesGlobally: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

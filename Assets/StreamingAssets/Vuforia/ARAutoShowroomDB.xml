@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pajero" size="1.000000 0.666667" />
+    <ImageTarget name="arautoshowroom" size="1.000000 1.000000" />
+    <ImageTarget name="train" size="1.000000 0.666667" />
+    <ImageTarget name="truck" size="1.000000 0.666667" />
+    <ImageTarget name="rickshaw" size="1.000000 0.666667" />
+    <ImageTarget name="cng" size="1.000000 0.666667" />
+    <ImageTarget name="motorbike" size="1.000000 0.625473" />
+    <ImageTarget name="sportscar" size="1.000000 0.625473" />
+    <ImageTarget name="suv" size="1.000000 0.633249" />
+  </Tracking>
+</QCARConfig>
