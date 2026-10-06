@@ -47,3 +47,4 @@ The AR application was developed with Unity and Vuforia, supporting image-target
 Developed as my **main individual project** during my AR/VR/XR industrial training at Battery Low Interactive Ltd.
 
 **Recognized as the Best Project by the Industry Board among all group and individual.**
+
