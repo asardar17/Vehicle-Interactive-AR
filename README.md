@@ -1,4 +1,4 @@
-# Vehicle Interactive
+# Vehicle Interactive AR
 
 An interactive vehicle showroom combining a web-based vehicle catalogue with an Android Augmented Reality application.
 
