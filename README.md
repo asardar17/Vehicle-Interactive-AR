@@ -2,9 +2,9 @@
 
 An interactive vehicle showroom combining a web-based vehicle catalogue with an Android Augmented Reality application.
 
-## Live Demo
+## Experience the Showroom
 
-[Visit Vehicle Interactive](https://vehicleinteractive.pages.dev/)
+[Visit Vehicle Interactive Website](https://vehicleinteractive.pages.dev/)
 
 ## Project Preview
 
@@ -38,9 +38,9 @@ The AR application was developed with Unity and Vuforia, supporting image-target
 - JavaScript
 - Cloudflare Pages
 
-## Demo
+## Demo Video
 
-[Watch the Project Demo](Assets/vehicle-interactive-demo.mp4)
+[Watch the Project Demo Video](Assets/vehicle-interactive-demo.mp4)
 
 ## Project Context
 
